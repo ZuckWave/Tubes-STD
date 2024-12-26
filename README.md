@@ -22,5 +22,7 @@ Dengan menggunakan struktur data multi-linked list, aplikasi ini memungkinkan pe
 - Menghitung jumlah model atau seri barang yang tersedia dalam sistem.
 
 Author:
+
 Dzaky Renaldy
+
 Caesar Gian Indrarizky
